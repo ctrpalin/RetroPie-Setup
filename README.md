@@ -1,7 +1,7 @@
 RetroPie-Setup
 ==============
 
-General Usage
+General Usage   .
 -------------
 
 Shell script to setup the Raspberry Pi, ODroid-C1 or a PC running Ubuntu with many emulators and games, using EmulationStation as the graphical front end. Bootable pre-made images for the Raspberry Pi are available for those that want a ready to go system, downloadable from the releases section of GitHub or via our website at https://retropie.org.uk
@@ -23,7 +23,7 @@ cd
 git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
 ```
 
-The script is executed with 
+The script is executed with
 
 ```shell
 cd RetroPie-Setup
